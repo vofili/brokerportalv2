@@ -8,7 +8,7 @@ function WelcomePage() {
       <div className=" mobile:hidden lg:block  ">
         <div className=" w-full  p-[70px] flex justify-between items-center ">
           <div className="  w-[47%] ">
-            <h1 className="text-[34px] w-[600px] tracking-[1.94px] opacity-[1] font-bold text-[#009677] ">Welcome to OldMutual Brokers' Platform.</h1>
+            <h1 className="text-[34px] w-[600px] tracking-[1.94px] opacity-[1] font-bold text-[#009677] ">Welcome to OldMutual Brokers Platform.</h1>
             <p className=" tracking-[1.06px] mt-[20px] text-[#808285] font-normal text-[20px] text-left opacity-[1] ">
               An end to end insurance broker digital solution. Broker plaform saves time and prevents all sorts of process bottlenecks to allow brokers to request Quotes,Buy insurance, create claims, manage renewals and handle correspondence with the
               Insurer.

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ab061b3.css",
+    "main.js": "/static/js/main.32a79acb.js",
+    "static/media/form.pdf": "/static/media/form.142db31eced7d068668f.pdf",
+    "static/media/brokerdasboard@2x.png": "/static/media/brokerdasboard@2x.4e763bb4d2e56948cea0.png",
+    "static/media/logo.png": "/static/media/logo.9b7e390966bcc24886f5.png",
+    "static/media/smalloldmutual.png": "/static/media/smalloldmutual.9b7e390966bcc24886f5.png",
+    "index.html": "/index.html",
+    "main.4ab061b3.css.map": "/static/css/main.4ab061b3.css.map",
+    "main.32a79acb.js.map": "/static/js/main.32a79acb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab061b3.css",
+    "static/js/main.32a79acb.js"
+  ]
+}
